@@ -1,2 +1,2 @@
 # Datasets
-This repository contains Dataseta
+This repository contains Datasets
